@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{border: 6px solid black;
+padding: 25px;
+text-align: left;
+color: aliceblue;
+}
+td{
+    background-color: white(128, 126, 126);
+
+}
+th{
+
+    text-decoration-style: wavy;
+    -moz-text-decoration-style:solid;
+    background-color: rgb(120, 221, 125);
+}
+header{
+    text-align: center; font-size: xx-large; }
